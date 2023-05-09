@@ -1,4 +1,4 @@
-# Tabela Periódica ⚗
+ <h1 align="center">⚗ Tabela Periódica</h1>
 
 O projeto consiste na elaboração de uma tabela periódica. Ela deve servir como ferramenta de apoio para qualquer usuário que tenha necessidade ou interesse no assunto.
 
@@ -14,3 +14,6 @@ Os requisitos mínimos desse projeto são:
 
 ** ATENÇÃO
 O resultado visual (aparência) não é determinante para a avaliação do exercício. 
+
+## 🖥 Preview
+https://tabela-periodica-two.vercel.app/
